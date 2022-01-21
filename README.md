@@ -21,3 +21,6 @@ The inputs from user and program output were shown below to demonstrate how the 
 ![input](https://user-images.githubusercontent.com/57035819/150499888-4df1111a-876a-4ef6-94bb-bbb0da229bb5.png)
 
 ![output](https://user-images.githubusercontent.com/57035819/150499913-62b11852-24c5-48c0-b774-bfc5b5706adf.png)
+
+## Author
+- [honourrable](https://github.com/honourrable)
