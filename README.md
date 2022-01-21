@@ -9,7 +9,7 @@ the program are:
 - Measurement of Euclidean distance between images' histograms
 - Sorting the distances and getting the most similar ones
 
-### Some Details
+### Input & Output and Some Details
 
 In dataset, some grayscale images were not suitable to perform the task. Therefore they were skipped but there could be another solution which is converting grayscale to RGB
 by simply repeating the first channel values to second and third channels (dimensions). The relevant condition code block was shown below.
